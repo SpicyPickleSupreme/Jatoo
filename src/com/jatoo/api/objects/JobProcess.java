@@ -1,5 +1,5 @@
 package com.jatoo.api.objects;
 
-public class JobProcess {
+public class JobProcess extends TaskProcess {
 
 }
